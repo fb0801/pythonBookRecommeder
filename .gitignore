@@ -337,4 +337,6 @@ sketch
 pyvenv.cfg
 pip-selfcheck.json
 
+share
+
 # End of https://www.toptal.com/developers/gitignore/api/python,venv,node,dotenv,react
