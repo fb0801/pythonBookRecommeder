@@ -10,6 +10,10 @@ LLM project using python to give book recommendations
 
 - remeber to activate venv do not need to cd
 
+- remeber to install modules 
+  
+- ensure the right kernal is being used
+
 
 # Resources used:
 
