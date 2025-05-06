@@ -12,7 +12,8 @@ LLM project using python to give book recommendations
 
 - remeber to install modules 
   
-- ensure the right kernal is being used
+- ensure the right kernal is being used 
+- may need to rerun previous lines for it to work
 
 
 # Resources used:
