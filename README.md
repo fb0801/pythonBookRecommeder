@@ -9,12 +9,11 @@ LLM project using python to give book recommendations
 # Issues:
 
 - remeber to activate venv do not need to cd
-
 - remeber to install modules 
   
 - ensure the right kernal is being used 
 - may need to rerun previous lines for it to work
--ensure it is spelt correctly
+- ensure it is spelt correctly
 
 # Resources used:
 
