@@ -9,12 +9,18 @@ LLM project using python to give book recommendations
 # Issues:
 
 - remeber to activate venv do not need to cd
-
 - remeber to install modules 
   
 - ensure the right kernal is being used 
 - may need to rerun previous lines for it to work
--ensure it is spelt correctly
+- ensure it is spelt correctly
+- if going to work with notebook dont use VSCode, just use jupyter to avoid issues and headaches
+
+# What we learnt:
+
+- using gradio to make dashboards
+- using LLM and langchain
+- not to use vscode for a project like this, better to use juypter notebook
 
 # Resources used:
 
