@@ -16,6 +16,12 @@ LLM project using python to give book recommendations
 - ensure it is spelt correctly
 - if going to work with notebook dont use VSCode, just use jupyter to avoid issues and headaches
 
+# What we learnt:
+
+- using gradio to make dashboards
+- using LLM and langchain
+- not to use vscode for a project like this, better to use juypter notebook
+
 # Resources used:
 
 - https://www.youtube.com/watch?v=Q7mS1VHm3Yw
